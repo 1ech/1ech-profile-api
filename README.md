@@ -1,4 +1,4 @@
-# PancakeSwap Profile API
+# 1ech Profile API
 
 Serverless API implementation for PancakeSwap Profile contract
 
